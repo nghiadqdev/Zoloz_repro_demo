@@ -1,0 +1,45 @@
+PODS:
+  - Flutter (1.0.0)
+  - zolozkit (2.1.1.251229133809):
+    - zolozkit/zolozkitWithWebContainer (= 2.1.1.251229133809)
+  - zolozkit/APPSecuritySDK (2.1.1.251229133809)
+  - zolozkit/Cherry (2.1.1.251229133809)
+  - zolozkit/Core (2.1.1.251229133809)
+  - zolozkit/Dependency (2.1.1.251229133809)
+  - zolozkit/faceguard (2.1.1.251229133809)
+  - zolozkit/ZolozDocScan (2.1.1.251229133809)
+  - zolozkit/zolozkitWithWebContainer (2.1.1.251229133809):
+    - zolozkit/APPSecuritySDK
+    - zolozkit/Cherry
+    - zolozkit/Core
+    - zolozkit/Dependency
+    - zolozkit/faceguard
+    - zolozkit/ZolozDocScan
+    - zolozkit/ZWebContainerAdapter
+  - zolozkit/ZWebContainerAdapter (2.1.1.251229133809)
+  - zolozkit_for_flutter (2.1.1.251229133809):
+    - Flutter
+    - zolozkit (= 2.1.1.251229133809)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zolozkit_for_flutter (from `.symlinks/plugins/zolozkit_for_flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/zoloz-pte-ltd/zoloz-demo-ios:
+    - zolozkit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zolozkit_for_flutter:
+    :path: ".symlinks/plugins/zolozkit_for_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  zolozkit: 5d2a3ea194ef1fdbfe8634836e83499f6a270132
+  zolozkit_for_flutter: 7160cd4187308eb040b03f65d444806c30a03a82
+
+PODFILE CHECKSUM: 56c6d214ab1b56b6695eda3f2a8ea9bc527d2c4b
+
+COCOAPODS: 1.16.2
